@@ -1,0 +1,12 @@
+table{
+    width: 100%;
+
+}
+th ,td{
+    border: 1px solid chocolate;
+}
+h2{
+    color: chocolate;
+    text-align: center;
+    font-family: "Times New Roman";
+}
